@@ -16,6 +16,8 @@ An open source smart dashboard project using a raspberry pi
 - 'plugin-able'?
 - fixed size
 - possible multiple dashboards (carousel type)
+- enable automation? Enable GPIO interface?
+- Keep touch screens in mind by providing optional response buttons in basic 
 
 ### Basic components
 
