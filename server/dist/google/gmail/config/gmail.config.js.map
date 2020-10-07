@@ -1,0 +1,1 @@
+{"version":3,"file":"gmail.config.js","sourceRoot":"","sources":["../../../../src/google/gmail/config/gmail.config.ts"],"names":[],"mappings":";;AAAA,2CAA0C;AAC1C,wCAA+E;AAE/E,kBAAe,mBAAU,CAAC,8BAAqB,EAAE,GAAgC,EAAE,CAAC,CAAC;IACnF,SAAS,EAAE,OAAO,CAAC,GAAG,CAAC,eAAe;IACtC,aAAa,EAAE,OAAO,CAAC,GAAG,CAAC,mBAAmB;IAC9C,WAAW,EAAE,OAAO,CAAC,GAAG,CAAC,cAAc;CACxC,CAAC,CAAC,CAAC"}
